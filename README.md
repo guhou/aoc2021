@@ -19,5 +19,5 @@ for the joy of participating in AoC.
 ## Incantations:
 
 - `cabal build` to build the library and executable.
-- `cabal build aoc2021` to run the executable.
+- `cabal run aoc2021` to run the executable.
 - `cabal test` to run the tests (if there were any).
