@@ -22,7 +22,6 @@ common deps
         ScopedTypeVariables
     build-depends:
         base,
-        bytestring           ^>= 0.10,
         conduit              ^>= 1.3,
         optparse-applicative ^>= 0.16,
         vector               ^>= 0.12,
